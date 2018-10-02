@@ -1,19 +1,10 @@
 {
 	"maxRiverItems": 300,
-	"httpPort": 80,
 	"homePage": { 
 		"panels": [
 			{
-				"title": "Main",
-				"river": "myOpmlFeeds.js"
-				},
-			{
-				"title": "NYT",
-				"river": "nyt.js"
-				},
-			{
-				"title": "Hacker News",
-				"river": "hn.js"
+				"title": "News",
+				"river": "hlan.js"
 				}
 			]
 		}
