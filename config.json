@@ -4,7 +4,7 @@
 		"panels": [
 			{
 				"title": "News",
-				"river": "hlan.js"
+				"river": "myOpmlFeeds.js"
 				}
 			]
 		}
