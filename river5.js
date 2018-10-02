@@ -28,6 +28,7 @@ function readConfig (callback) {
 		if (!err) {
 			try {
 				myConfig = JSON.parse (data.toString ());
+				myConfig.httpPort = process.env.PORT;
 				}
 			catch (err) {
 				console.log ("readConfig: err == " + err.message);
