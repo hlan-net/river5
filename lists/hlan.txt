@@ -34,3 +34,4 @@ https://www.debian.org/News/news
 https://thethingsnetwork.pr.co/press_releases.atom
 https://azure.microsoft.com/en-us/blog/feed/
 https://ilmatieteenlaitos.fi/tiedotteet/rss
+https://www.poliisi.fi/rss
