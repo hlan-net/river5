@@ -36,3 +36,4 @@ https://azure.microsoft.com/en-us/blog/feed/
 https://ilmatieteenlaitos.fi/tiedotteet/rss
 https://www.poliisi.fi/RSS/fi/1/1/tietoa_poliisista/tiedotteet
 https://azurecomcdn.azureedge.net/en-us/status/feed/
+https://vm.fi/peruskorko/-/asset_publisher/s7YemkI1Gvrx/rss
