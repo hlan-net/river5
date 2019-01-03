@@ -24,7 +24,7 @@ https://aws.amazon.com/new/feed/
 https://www.maaseuduntulevaisuus.fi/feed/maaseudun-tulevaisuus-rss-feed-7.136609
 http://feeds.feedburner.com/smallnetbuilder
 https://www.oracle.com/corporate/press/rss/rss-pr.xml
-ttp://googleblog.blogspot.com/feeds/posts/default
+http://googleblog.blogspot.com/feeds/posts/default
 http://blog.bosch-si.com/feed/
 http://jollasuomi.fi/feed/
 http://www.yubico.com/feed/
