@@ -1,5 +1,6 @@
 {
-        "webSocketPort": 8080,
+        "httpPort": 8080,
+        "webSocketPort": 8081,
 	"maxRiverItems": 300,
 	"homePage": { 
 		"panels": [
