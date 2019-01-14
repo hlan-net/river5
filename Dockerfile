@@ -8,6 +8,6 @@ RUN npm install
 
 COPY . .
 
-EXPOSE 1338 
+EXPOSE 8080 
 
-CMD [ "npm" , "river5.js" ]
+CMD [ "npm" , "start" ]
