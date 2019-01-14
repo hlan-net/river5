@@ -10,4 +10,4 @@ COPY . .
 
 EXPOSE 1338 
 
-CMD [ "npm" , "start" ]
+CMD [ "npm" , "river5.js" ]
