@@ -10,6 +10,8 @@ COPY . .
 
 COPY config.json .
 
+VOLUME /data
+
 EXPOSE 8080
 EXPOSE 8081 
 
