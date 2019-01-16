@@ -10,7 +10,7 @@ COPY . .
 
 COPY config.json .
 
-VOLUME /data
+VOLUME /usr/src/app/data
 
 EXPOSE 8080
 EXPOSE 8081 
