@@ -39,3 +39,4 @@ https://azurecomcdn.azureedge.net/en-us/status/feed/
 https://vm.fi/peruskorko/-/asset_publisher/s7YemkI1Gvrx/rss
 https://ilmatieteenlaitos.fi/ajankohtaista/rss
 https://ikiwiki.iki.fi/feed.php?ns=uutiset:blog
+https://europa.eu/newsroom/press-releases.xml_en
