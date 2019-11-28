@@ -26,7 +26,6 @@ http://feeds.feedburner.com/smallnetbuilder
 https://www.oracle.com/corporate/press/rss/rss-pr.xml
 http://googleblog.blogspot.com/feeds/posts/default
 http://blog.bosch-si.com/feed/
-http://jollasuomi.fi/feed/
 http://www.yubico.com/feed/
 http://feeds.reuters.com/reuters/topNews
 https://www.kernel.org/feeds/kdist.xml
@@ -40,3 +39,5 @@ https://vm.fi/peruskorko/-/asset_publisher/s7YemkI1Gvrx/rss
 https://ilmatieteenlaitos.fi/ajankohtaista/rss
 https://ikiwiki.iki.fi/feed.php?ns=uutiset:blog
 https://europa.eu/newsroom/press-releases.xml_en
+https://www.raspberrypi.org/feed/
+https://www.hackster.io/news.atom
