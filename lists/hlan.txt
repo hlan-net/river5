@@ -41,3 +41,4 @@ https://ikiwiki.iki.fi/feed.php?ns=uutiset:blog
 https://europa.eu/newsroom/press-releases.xml_en
 https://www.raspberrypi.org/feed/
 https://www.hackster.io/news.atom
+https://www.docker.com/blog/feed/
