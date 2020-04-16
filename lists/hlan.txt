@@ -27,6 +27,7 @@ https://www.oracle.com/corporate/press/rss/rss-pr.xml
 http://googleblog.blogspot.com/feeds/posts/default
 http://blog.bosch-si.com/feed/
 http://www.yubico.com/feed/
+https://vanha.tekniikanmaailma.fi/feed/
 http://feeds.reuters.com/reuters/topNews
 https://www.kernel.org/feeds/kdist.xml
 https://www.debian.org/News/news
