@@ -43,3 +43,4 @@ https://europa.eu/newsroom/press-releases.xml_en
 https://www.raspberrypi.org/feed/
 https://www.hackster.io/news.atom
 https://www.docker.com/blog/feed/
+https://www.volkswagenag.com/en/news.webfeed.html
