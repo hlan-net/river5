@@ -12,14 +12,14 @@
 		"start": "node river5.js"
 	},
 	"dependencies": {
-		"request": "*",
-		"mime": "*",
+		"davereader": "*",
+		"daveutils": "*",
+		"feedparser": "*",
 		"md5": "*",
+		"mime": "*",
 		"nodejs-websocket": "*",
 		"opmlparser": "*",
-		"feedparser": "*",
-		"daveutils": "*",
-		"davereader": "*"
+		"request": "*"
 	},
 	"license": "MIT",
 	"engines": {
