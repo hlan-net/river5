@@ -1,4 +1,6 @@
-FROM node:current-alpine
+ARG ARCH=
+
+FROM ${ARCH}node:current-alpine
 
 WORKDIR /usr/src/app
 
