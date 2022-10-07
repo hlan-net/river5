@@ -27,16 +27,28 @@ spec:
       serviceAccountName: {{ include "river-helm.serviceAccountName" . }}
       securityContext:
         {{- toYaml .Values.podSecurityContext | nindent 8 }}
+      volumes:
+        - name: nfs-data
+          persistentVolumeClaim:
+            claimName: {{ .Values.storage.pvc.name }}
       containers:
         - name: {{ .Chart.Name }}
           securityContext:
             {{- toYaml .Values.securityContext | nindent 12 }}
           image: "{{ .Values.image.repository }}:{{ .Values.image.tag | default .Chart.AppVersion }}"
           imagePullPolicy: {{ .Values.image.pullPolicy }}
+          env:
+            - name: "PORT"
+              value: "8080"
           ports:
             - name: http
-              containerPort: 8081
+              containerPort: 8080
               protocol: TCP
+            - name: websocket
+              containerPort: 8081
+          volumeMounts:
+            - name: nfs-data
+              mountPath: /usr/src/app/data
           livenessProbe:
             httpGet:
               path: /
