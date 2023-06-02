@@ -42,4 +42,6 @@ https://www.hackster.io/news.atom
 https://www.docker.com/blog/feed/
 https://www.volkswagenag.com/en/news.webfeed.html
 https://news.microsoft.com/fi-fi/feed/
-
+https://www.hashicorp.com/blog/feed.xml
+https://www.economist.com/europe/rss.xml
+https://www.economist.com/special-report/rss.xml
