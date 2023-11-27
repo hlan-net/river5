@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: slorba/river5
-  pullPolicy: IfNotPresent
+  pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
 
@@ -24,7 +24,8 @@ serviceAccount:
   # If not set and create is true, a name is generated using the fullname template
   name: ""
 
-podAnnotations: {}
+podAnnotations: {} 
+  #consul.hashicorp.com/connect-inject: "true"
 
 podSecurityContext: {}
   # fsGroup: 2000
