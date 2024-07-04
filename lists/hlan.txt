@@ -26,7 +26,7 @@ https://www.maaseuduntulevaisuus.fi/feed/maaseudun-tulevaisuus-rss-feed-7.136609
 http://feeds.feedburner.com/smallnetbuilder
 http://blog.bosch-si.com/feed/
 http://www.yubico.com/feed/
-https://vanha.tekniikanmaailma.fi/feed/
+https://wp.tekniikanmaailma.fi/feed/
 https://www.kernel.org/feeds/kdist.xml
 https://www.debian.org/News/news
 https://thethingsnetwork.pr.co/press_releases.atom
