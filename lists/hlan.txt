@@ -32,7 +32,7 @@ https://www.debian.org/News/news
 https://thethingsnetwork.pr.co/press_releases.atom
 https://azure.microsoft.com/en-us/blog/feed/
 https://ilmatieteenlaitos.fi/tiedotteet/rss
-https://www.poliisi.fi/RSS/fi/1/1/tietoa_poliisista/tiedotteet
+https://poliisi.fi/ajankohtaista/-/asset_publisher/yCqu73OvueAR/rss
 https://azurestatuscdn.azureedge.net/en-gb/status/feed/
 https://ilmatieteenlaitos.fi/ajankohtaista/rss
 https://ikiwiki.iki.fi/feed.php?ns=uutiset:blog
