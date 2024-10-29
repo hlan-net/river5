@@ -44,6 +44,7 @@ https://www.volkswagenag.com/en/news.webfeed.html
 https://news.microsoft.com/fi-fi/feed/
 https://www.hashicorp.com/blog/feed.xml
 https://www.economist.com/europe/rss.xml
+https://www.technologyreview.com/feed/
 https://www.uusisuomi.fi/api/feed/v2/rss/us
 https://www.economist.com/special-report/rss.xml
 https://news.cision.com/fi/ListItems?format=rss
