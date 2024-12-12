@@ -45,9 +45,9 @@ aws-sign2@~0.7.0:
   integrity sha512-08kcGqnYf/YmjoRhfxyu+CLxBjUtHLXLXX/vUfx9l2LYzG3c1m61nrpyFUZI6zeS+Li/wWMMidD9KgrqtGq3mA==
 
 aws4@^1.8.0:
-  version "1.13.0"
-  resolved "https://registry.yarnpkg.com/aws4/-/aws4-1.13.0.tgz#d9b802e9bb9c248d7be5f7f5ef178dc3684e9dcc"
-  integrity sha512-3AungXC4I8kKsS9PuS4JH2nc+0bVY/mjgrephHTIi8fpEeGsTHBUJeosp0Wc1myYMElmD0B3Oc4XL/HVJ4PV2g==
+  version "1.13.2"
+  resolved "https://registry.yarnpkg.com/aws4/-/aws4-1.13.2.tgz#0aa167216965ac9474ccfa83892cfb6b3e1e52ef"
+  integrity sha512-lHe62zvbTB5eEABUVi/AwVh0ZKY9rMMDhmm+eeyuuUQbQ3+J+fONVQOZyj+DdrvD4BY33uYniyRJ4UJIaSKAfw==
 
 bcrypt-pbkdf@^1.0.0:
   version "1.0.2"
@@ -131,9 +131,9 @@ davereader@*:
     request "*"
 
 daveutils@*:
-  version "0.4.65"
-  resolved "https://registry.yarnpkg.com/daveutils/-/daveutils-0.4.65.tgz#ad22f220459a3dccbdb688ef185953763b1ea808"
-  integrity sha512-OfR33yzbJsarKJ2wchckWeSaM1OI4iI1gjMqhccwnsfABBfKz2D4aAtQD4gX5WwQhq41usnPfjfkgx53uXnQSQ==
+  version "0.4.72"
+  resolved "https://registry.yarnpkg.com/daveutils/-/daveutils-0.4.72.tgz#9a59107cda6f11c1cde6231e3eaaa0c0b69385bc"
+  integrity sha512-hvpQjmK6bumXSeXQ5v0u9H4JJd5Ly3G8JTBkwvEAlstWIU09K0M4XuejpqgI/MjiFxAPl9+k5SAUgcf1luIaew==
   dependencies:
     request "*"
 
@@ -342,9 +342,9 @@ mime-types@^2.1.12, mime-types@~2.1.19:
     mime-db "1.52.0"
 
 mime@*:
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/mime/-/mime-4.0.3.tgz#cd4a1aa052fc980dfc34f111fe1be9e8b878c5d2"
-  integrity sha512-KgUb15Oorc0NEKPbvfa0wRU+PItIEZmiv+pyAO2i0oTIVTJhlzMclU7w4RXWQrSOVH5ax/p/CkIO7KI4OyFJTQ==
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/mime/-/mime-4.0.4.tgz#9f851b0fc3c289d063b20a7a8055b3014b25664b"
+  integrity sha512-v8yqInVjhXyqP6+Kw4fV3ZzeMRqEW6FotRsKXjRS5VMTNIuXsdRoAvklpoRgSqXm6o9VNH4/C0mgedko9DdLsQ==
 
 mri@^1.1.5:
   version "1.2.0"
@@ -380,11 +380,13 @@ process-nextick-args@~2.0.0:
   integrity sha512-3ouUOpQhtgrbOa17J7+uxOTpITYWaGP7/AhoR3+A+/1e9skrzelGi/dXzEYyvbxubEF6Wn2ypscTKiKJFFn1ag==
 
 psl@^1.1.28:
-  version "1.9.0"
-  resolved "https://registry.yarnpkg.com/psl/-/psl-1.9.0.tgz#d0df2a137f00794565fcaf3b2c00cd09f8d5a5a7"
-  integrity sha512-E/ZsdU4HLs/68gYzgGTkMicWTLPdAftJLfJFlLUAAKZGkStNU72sZjT66SnMDVOfOWY/YAoiD7Jxa9iHvngcag==
+  version "1.15.0"
+  resolved "https://registry.yarnpkg.com/psl/-/psl-1.15.0.tgz#bdace31896f1d97cec6a79e8224898ce93d974c6"
+  integrity sha512-JZd3gMVBAVQkSs6HdNZo9Sdo0LNcQeMNP3CozBJb3JYC/QUYZTnKxP+f8oWRX4rHP5EurWxqAHTSwUCjlNKa1w==
+  dependencies:
+    punycode "^2.3.1"
 
-punycode@^2.1.0, punycode@^2.1.1:
+punycode@^2.1.0, punycode@^2.1.1, punycode@^2.3.1:
   version "2.3.1"
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.3.1.tgz#027422e2faec0b25e1549c3e1bd8309b9133b6e5"
   integrity sha512-vYt7UD1U9Wg6138shLtLOvdAu+8DsC/ilFtEVHcH+wydcSpNE20AfSOduf6MkRFahL5FY7X1oU7nKVZFtfq8Fg==

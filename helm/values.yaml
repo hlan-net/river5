@@ -25,7 +25,7 @@ serviceAccount:
   name: ""
 
 podAnnotations: {} 
-  #consul.hashicorp.com/connect-inject: "true"
+  #'consul.hashicorp.com/connect-inject': "true"
 
 podSecurityContext: {}
   # fsGroup: 2000
@@ -83,7 +83,7 @@ resources: {}
 autoscaling:
   enabled: false
   minReplicas: 1
-  maxReplicas: 100
+  maxReplicas: 10
   targetCPUUtilizationPercentage: 80
   # targetMemoryUtilizationPercentage: 80
 
