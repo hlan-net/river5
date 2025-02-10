@@ -47,3 +47,6 @@ https://www.uusisuomi.fi/api/feed/v2/rss/us
 https://www.economist.com/special-report/rss.xml
 https://news.cision.com/fi/ListItems?format=rss
 https://www.kesko.fi/en/media/rss-feeds/news
+https://rss.dw.com/rdf/rss-en-all
+https://www.france24.com/en/rss
+https://www.euronews.com/rss?format=mrss&level=theme&name=news
