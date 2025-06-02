@@ -131,9 +131,9 @@ davereader@*:
     request "*"
 
 daveutils@*:
-  version "0.4.72"
-  resolved "https://registry.yarnpkg.com/daveutils/-/daveutils-0.4.72.tgz#9a59107cda6f11c1cde6231e3eaaa0c0b69385bc"
-  integrity sha512-hvpQjmK6bumXSeXQ5v0u9H4JJd5Ly3G8JTBkwvEAlstWIU09K0M4XuejpqgI/MjiFxAPl9+k5SAUgcf1luIaew==
+  version "0.4.74"
+  resolved "https://registry.yarnpkg.com/daveutils/-/daveutils-0.4.74.tgz#751e8b8ce30059afbb701d1ec128b500753b6cf8"
+  integrity sha512-FXxxDvZk3QopKWtBdcvoLRw19UExu/0h+gFH7SDKSduVB1zCduiNcEfeiRAUN2T9yVH7HFODMQeGfpQogsALJA==
   dependencies:
     request "*"
 
@@ -342,9 +342,9 @@ mime-types@^2.1.12, mime-types@~2.1.19:
     mime-db "1.52.0"
 
 mime@*:
-  version "4.0.4"
-  resolved "https://registry.yarnpkg.com/mime/-/mime-4.0.4.tgz#9f851b0fc3c289d063b20a7a8055b3014b25664b"
-  integrity sha512-v8yqInVjhXyqP6+Kw4fV3ZzeMRqEW6FotRsKXjRS5VMTNIuXsdRoAvklpoRgSqXm6o9VNH4/C0mgedko9DdLsQ==
+  version "4.0.7"
+  resolved "https://registry.yarnpkg.com/mime/-/mime-4.0.7.tgz#0b7a98b08c63bd3c10251e797d67840c9bde9f13"
+  integrity sha512-2OfDPL+e03E0LrXaGYOtTFIYhiuzep94NSsuhrNULq+stylcJedcHdzHtz0atMUuGwJfFYs0YL5xeC/Ca2x0eQ==
 
 mri@^1.1.5:
   version "1.2.0"
